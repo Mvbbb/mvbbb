@@ -20,6 +20,6 @@ I'm mvbbb!
 
 ## 🧐 About Me
 
-📫 How to reach me: 3212618781@qq.com  
-💻 My Bolg: https://yzh.im  
-🌱 I’m currently learning Java  
+- 📫 How to reach me: 3212618781@qq.com  
+- 💻 My Bolg: https://yzh.im  
+- 🎓 Studying Software engineering.
