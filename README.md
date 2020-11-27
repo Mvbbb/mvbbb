@@ -19,4 +19,5 @@ Here are some ideas to get you started:
 # Hello
 - 📫 How to reach me: 3212618781@qq.com  
 - 💻 My Bolg: https://yzh.im  
-- 🎓 Studying Software engineering.
+- 🎓 Studying Software engineering
+- 📌 Interests: Music 🎧, Blogging📝,Photographing	📷
