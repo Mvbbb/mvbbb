@@ -16,10 +16,6 @@ Here are some ideas to get you started:
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=mvbbb&show_icons=true&hide_border=true">
 
 # Hello
-I'm mvbbb! 
-
-## 🧐 About Me
-
 - 📫 How to reach me: 3212618781@qq.com  
 - 💻 My Bolg: https://yzh.im  
 - 🎓 Studying Software engineering.
