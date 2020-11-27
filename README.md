@@ -13,7 +13,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=mvbbb&show_icons=true&hide_border=true">
+<a href="https://github.com/mvbbb">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mvbbb&theme=buefy&show_icons=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mvbbb&theme=buefy&layout=compact" />
+</a>
 
 # Hello
 - 📫 How to reach me: 3212618781@qq.com  
